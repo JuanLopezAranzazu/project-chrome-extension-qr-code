@@ -2,6 +2,7 @@
   "name": "QR Code Generator",
   "description": "Generate QR Code for the current page",
   "version": "1.0",
+  "author": "Juan Esteban Lopez",
   "manifest_version": 3,
   "action": {
     "default_popup": "index.html",
